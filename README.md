@@ -35,10 +35,10 @@ Once the repository is cloned, navigate into the project directory:
 cd Chess-using-Pygame
 ```
 
-### 3. Install the required dependencies:
+### 3. Install Pygame:
 
 ```bash
-pip install -r requirements.txt
+pip install pygame
 ```
 ### 4. Run the game:
 After the dependencies are installed, you can start the game by running the following command:
